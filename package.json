@@ -1,0 +1,16 @@
+{
+  "name": "selling-digital-products-guide",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A plain-English manual for a one-person LLC selling digital products directly: templates, printables, planner math, licenses, and calm copy-theft responses.",
+  "author": "Dylan Asdale · Asdale Dynamics, LLC",
+  "license": "MIT",
+  "scripts": {
+    "build": "node build.js",
+    "test": "node --test tests/",
+    "start": "node serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
